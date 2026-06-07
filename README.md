@@ -1,3 +1,3 @@
 ### PC Web版
 
-https://kogwx.github.io/CatVodTVJsonEditor
+https://wanliqk.github.io/CatVodTVJsonEditor/
